@@ -1,2 +1,2 @@
 # IMDbMovieSearch
-Created with CodeSandbox
+Movie Search app using IMDb API for learning purpose
